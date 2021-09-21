@@ -1,0 +1,30 @@
+{
+  "name": "nobles-dmbot",
+  "version": "2.0.3",
+  "description": "ya hak",
+  "main": "node bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js"
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.youtube.com/noblesyt"
+  },
+  "author": "Nobles",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://www.youtube.com/noblesyt"
+  },
+  "homepage": "https://www.youtube.com/noblesyt",
+  "dependencies": {
+    "discord.js": "^11.6.4",
+    "chalk": "^4.1.0",
+    "moment": "^2.29.1",
+    "jimp": "^0.16.1",
+    "express": "^4.17.1"
+  }
+}
